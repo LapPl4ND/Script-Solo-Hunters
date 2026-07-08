@@ -7,7 +7,7 @@ A lightweight Roblox script for **Solo Hunters**, designed to automate combat an
 ## ✨ Features
 
 - 🎯 Auto Kill
-- ⚔️ Auto Skill
+- ⚔️ Auto Skill (Soon)
 - 📍 Teleport to Mobs
 - ⚡ Fast and lightweight interface
 - 🎮 Easy to use
